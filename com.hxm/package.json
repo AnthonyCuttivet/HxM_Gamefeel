@@ -1,0 +1,22 @@
+{
+    "name": "com.hxm.gamefeel",
+    "version": "1.0.0",
+    "displayName": "HxM Gamefeel",
+    "description": "HxM Gamefeel Library",
+    "unity": "2022.3",
+    "unityRelease": "0b5",
+    "documentationUrl": "",
+    "changelogUrl": "",
+    "licensesUrl": "",
+    "dependencies": {
+        "com.unity.mathematics" : "1.2.6"
+    },
+   "keywords": [
+      "hxm"
+    ],
+    "author": {
+      "name": "HxM",
+      "email": "",
+      "url": ""
+    }
+  }
